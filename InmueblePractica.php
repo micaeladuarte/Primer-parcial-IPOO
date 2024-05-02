@@ -93,7 +93,7 @@
      */
     //return true o false
 
-    //no entiendo bien con que compara? con un objeto de esta clase?
+    
      public function estaDisponible ($tipoDeUso, $montoMaximo){
         $disponible=false;
         if($this->getObjPersonaInq()== null){
